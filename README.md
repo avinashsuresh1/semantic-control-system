@@ -1,6 +1,6 @@
 # Semantic Control Systems (SCS) — System-1 (Jev) + System-2 Cognitive Architecture
 
-A reference architecture and simulation framework for **Semantic Control Systems (SCS)**, where control directives operate directly in natural language semantics, decoded by a fast **System-1 decision model (Jev)** to emit deterministic hardware control signals, and supervised by a **System-2 reasoning model** for deliberative scenario simulations.
+A reference architecture and simulation framework for **Semantic Control Systems (SCS)**, where control directives operate directly in natural language semantics, decoded by a fast **System-1 decision model (like Jev)** to emit deterministic hardware control signals, and supervised by a **System-2 reasoning model** for deliberative scenario simulations.
 
 ---
 
